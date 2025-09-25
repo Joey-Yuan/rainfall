@@ -4,7 +4,7 @@ import numpy as np
 import random
 from matplotlib.animation import FuncAnimation
 
-# Provided rainfall range data for Hong Kong districts in 2024
+# Provided rainfall range data for Hong Kong districts in 2025
 districts = [
     "Kwun Tong", "Eastern District", "Wong Tai Sin", "Kowloon City", "Southern District",
     "Central & Western District", "Sha Tin", "Sham Shui Po", "Wan Chai", "Yau Tsim Mong",
