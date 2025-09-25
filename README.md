@@ -11,7 +11,3 @@ The intensity of the rainfall in the area determines the size of the puddles and
    ```bash
    pip install requests pandas matplotlib
    ```
-3. Run the script:
-   ```bash
-   python src/main.py
-   ```
