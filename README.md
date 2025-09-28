@@ -1,7 +1,7 @@
 # Rainfall Visualization
 
 Visualize rainfall data for Hong Kong districts with animated pixel puddles.
-This interactive mouse-based project documents the rainfall recorded across various districts in Hong Kong during the first rain brought by Typhoon Mujigae.
+This interactive mouse-based project documents the rainfall recorded across various districts in Hong Kong during the first rain brought by Typhoon Ragasa.
 
 By clicking on the project, a randomly selected district's rainfall data from that period will be displayed. 
 The intensity of the rainfall in the area determines the size of the puddles and raindrops that appear—the heavier the rainfall, the larger the puddles and raindrops generated.
