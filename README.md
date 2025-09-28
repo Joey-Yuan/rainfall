@@ -1,6 +1,6 @@
 # Rainfall Visualization
 
-Visualize rainfall data for Hong Kong districts with animated pixel puddles.
+Visualize rainfall data for Hong Kong districts in September 23th, 2025 at 18：00 with animated pixel puddles.
 This interactive mouse-based project documents the rainfall recorded across various districts in Hong Kong during the first rain brought by Typhoon Ragasa.
 
 By clicking on the project, a randomly selected district's rainfall data from that period will be displayed. 
